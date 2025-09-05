@@ -48,7 +48,7 @@ const Header = () => {
         data-aos-duration="2000"
         data-aos-delay="500"
       >
-        Salvador Americo Afo, final Year student of BCA-Computer Science &
+        Salvador Americo Afo, graduate student of BCA-Computer Science &
         Information Technology at The Maharaja Sayajirao University of Baroda.
       </p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
